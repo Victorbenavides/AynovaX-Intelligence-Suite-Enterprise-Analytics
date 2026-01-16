@@ -46,12 +46,3 @@ AynovaX Intelligence es una plataforma de analítica avanzada diseñada para tra
 | **AI/ML** | Scikit-Learn | K-Means Clustering |
 | **Forecasting** | Statsmodels | Exponential Smoothing |
 | **Viz** | Plotly | Interactive 3D Charts |
-
----
-
-## ⚙️ Installation / Instalación
-
-1. **Clone the repository**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/aynovax-intelligence.git](https://github.com/YOUR_USERNAME/aynovax-intelligence.git)
-   cd aynovax-intelligence
